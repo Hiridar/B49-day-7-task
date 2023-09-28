@@ -1,0 +1,35 @@
+DAY-7-task
+
+     ARRAY METHODS :
+
+         1.Solving problems using array functions on rest countries data (https://restcountries.com/v3.1/all).
+           * Get all the countries from Asia continent /region using Filter function
+           * Get all the countries with a population of less than 2 lakhs using Filter function
+           * Print the following details name, capital, flag using forEach function
+           * Print the total population of countries using reduce function
+           * Print the country which uses US Dollars as currency.
+
+
+          ANS=cod: Name: Afghanistan
+                   Capital: Kabul
+                   Flag: https://flagcdn.com/w320/af.png
+                   Name: Armenia
+                   Capital: Yerevan
+                   Flag: https://flagcdn.com/w320/am.png
+                   Name: Azerbaijan
+                   Capital: Baku
+                   Flag: https://flagcdn.com/w320/az.png
+                   Name: Bahrain
+                   Capital: Manama
+                   Flag: https://flagcdn.com/w320/bh.png
+                   Name: Bangladesh
+                   Capital: Dhaka
+                   Flag: https://flagcdn.com/w320/bd.png
+                   Name: Bhutan
+                   Capital: Thimphu
+                   Flag: https://flagcdn.com/w320/bt.png
+                   Name: Brunei
+                   Capital: Bandar Seri Begawan
+                   Flag: https://flagcdn.com/w320/bn.png
+                   Name: Cambodia
+                   Capital: Phnom
